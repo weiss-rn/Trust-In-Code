@@ -1,6 +1,6 @@
-public class Main {
+public class Starter_8 {
     /* Java Full supported variables demonstration */
-    public static void main(String[] agrs) {
+    public static void main(String[] args) {
     int a = 5;
     float b = 4.5f;
     char c = 'A';
